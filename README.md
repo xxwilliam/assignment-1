@@ -19,11 +19,12 @@ https://github.com/xxwilliam/xxwilliam1/blob/main/pics/troy.JPG
 
  
 Born in Australia 
+ 
 Education To Date Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security Ope
 rations in 2010, 
 Rmit Introduction to IT in 2021 
  
-Mt interest in IT came about when a friend of mine was chatting to a guy online from the USA. She was telling m
+My interest in IT came about when a friend of mine was chatting to a guy online from the USA. She was telling m
 e all about him, 
 like that he owned a Harley Davidson store, lived in a big house, and was very rich. She also told me he wanted h
 er to fly to the USA. 
