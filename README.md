@@ -11,12 +11,12 @@
 STUDENT NUMBER; s3927616. 
 STUDENT EMAIL; S3927616@student.rmit.edu.au 
  
+https://github.com/xxwilliam/xxwilliam1/blob/main/pics/troy.JPG
 
 
+ ![troy](https://user-images.githubusercontent.com/89674523/134449067-e7379e32-e115-4846-b9d5-4b81a85b64d9.jpg)
 
- 
-![troy (3)](https://user-images.githubusercontent.com/89674523/133869567-6bc42b37-e8e7-443d-a6a7-3d19d0c683
-3f.jpg) 
+
  
 Born in Australia 
 Education To Date Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security Ope
@@ -58,16 +58,15 @@ I hope to pass this course, then study introduction to programming, then on to C
 https://www.seek.com.au/job/53735051/apply?token=1~03fd8ff7-3656-4dd3-9633-f830c1aed2e6 
  
  
-![IMG_6231](https://user-images.githubusercontent.com/89674523/133869614-55b1d56b-4600-4bed-a5cb-164213
-91aaa7.jpg) 
+) 
+ ![IMG_6231 (2)](https://user-images.githubusercontent.com/89674523/134448605-d52b338a-35a9-413c-8caf-fd6481abca8f.jpg)
+  
  
- 
-![IMG_6232](https://user-images.githubusercontent.com/89674523/133869627-05a789c3-49eb-4c6f-aa04-daf01a70
-9ac4.jpg) 
- 
- 
+ ![job 2](https://user-images.githubusercontent.com/89674523/134449115-3c2aba97-6985-4937-96a1-1d695fcf5c49.jpg)
+
 MY PROJECT IDEA; 
- 
+
+
 THE G.E.C,A. 
  
 OVER VIEW; 
@@ -161,13 +160,13 @@ ehicle owners.
  
  
  
+
  
-![IMG_6234](https://user-images.githubusercontent.com/89674523/133869635-3b62959a-0d5c-467d-94bf-e7acb92
-43488.jpg) 
-![IMG_6235](https://user-images.githubusercontent.com/89674523/133869643-eefa0dcc-cf33-4e1a-8168-c9b34699
-5676.jpg) 
-![IMG_6237](https://user-images.githubusercontent.com/89674523/133869653-c7518b3a-7c7f-4661-b4dd-10ee6fd
-39656.jpg) 
+
+![tests 1](https://user-images.githubusercontent.com/89674523/134449168-75da1e38-81e1-4c50-8a3d-06751c381ef1.jpg)   ! [tests 2](https://user-images.githubusercontent.com/89674523/134449204-ee1fe682-7ed2-48e1-9175-6c387c0b3a74.jpg)
+![tests 3](https://user-images.githubusercontent.com/89674523/134449247-7035955a-5e71-4e58-8e37-bc2df31ba778.jpg)
+![tests 4](https://user-images.githubusercontent.com/89674523/134449261-48bf203b-a3ee-4161-9484-acdaaddd1d02.jpg)
+
  
-![test 1](https://user-images.githubusercontent.com/89674523/133869668-37f0262c-a9a0-41a6-8e71-e062144909e3
-.jpg) 
+
+ 
