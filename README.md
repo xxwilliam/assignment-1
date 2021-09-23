@@ -11,10 +11,9 @@
 STUDENT NUMBER; s3927616. 
 STUDENT EMAIL; S3927616@student.rmit.edu.au 
  
+
  https://github.com/xxwilliam/xxwilliam1/blob/76df694da45b53887f0fb36cbb2130a96048082b/pics/troy.JPG
 
- 
- ![troy](https://user-images.githubusercontent.com/89674523/134440937-71a78170-ef17-4133-8e70-870ed2aaa91a.JPG)
 
  
 ![troy (3)](https://user-images.githubusercontent.com/89674523/133869567-6bc42b37-e8e7-443d-a6a7-3d19d0c683
