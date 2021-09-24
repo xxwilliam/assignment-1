@@ -40,7 +40,7 @@ security.
 MY IDEAL JOB 
  
 Security Specialist 
-My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend-
+My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
  across systems and domains, and with Australian Government security requirements under PSPF,DSPF 
  and ISM. An IT degree with Industry experience in security risk management in complex systems is preferable 
@@ -68,7 +68,7 @@ OVER VIEW;
 A module fitted to a motor vehicle to help stop it getting stolen. The G,E,C,A stands for Gps tracking, Engine 
 immobiliser, Camera, Alarm. 
 The GPS will keep a log of the vehicle's location, Engine immobiliser will disable the engine, lock doors and win
-dows, Cameras will record from 
+windows, Cameras will record from 
 out side the vehicle and in side as well, and Alarms will go off out side the vehicle. The vehicle's air conditioner 
 or vent fan will still 
 work so the occupants will not be affected by the hot or cold weather The whole unit can be built in the front or
@@ -88,59 +88,63 @@ that difference is all this is in a package like they have on airplanes (black b
 DESCRIPTION OF PRODUCT; 
  
 As the name suggests G,E,C,A. Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does; 
-GPS Tracking; 
+
+ GPS Tracking; 
 The Gps Tracker will work along side but not wired into the factory gps (if the vehicle has 1), it will have it's own
 battery as a back up 
 for the whole system. The GPS will log the trips on a hard drive and an SD card, so if the hard drive was damage
 d the SD card would survive or vice 
 versa. 
-ENGINE IMMOBILISER; 
+
+ ENGINE IMMOBILISER; 
 This will work seperate to the factory engine immobiliser ( if vehicle has 1) so if that was hacked or key was 
-cloned.The engine immobiliser would ki 
-kick in after the vehicle was driven 50 meters,it woukd send a log to the hard drive and sd card,. The engine 
+cloned. The engine immobiliser would  
+kick in after the vehicle was driven 50 meters, it woukd send a log to the hard drive and sd card,. The engine 
 immobiliser would keep motor vehicle 
-engine running but only idleing so air conditioner or fan to work.It would send a message to the motor vehicle 
+engine running but only idleing so air conditioner or fan to work. It would send a message to the motor vehicle 
 commputer (most vehicles have a 
-commptuer) most vehicles made before 1970-1980 willnot have a commputer. Also send a message to the brakes 
+commptuer) most vehicles made before 1970-1980 will not have a commputer. Also send a message to the brakes 
 to close. 
-CAMERAS; 
-Cameras will be mounted on the front,rear and inside.These cameras will record just like normal vehicle cameras 
-do,The in side camera will directly 
-show the driver, have a mircrophone as well the record any voices from in side the vehicle,that can be used in 
-court if needed.all this will be 
+
+ CAMERAS; 
+Cameras will be mounted on the front,rear and inside. These cameras will record just like normal vehicle cameras 
+do, The in side camera will directly 
+show the driver, have a mircrophone as well the record any voices from in side the vehicle, that can be used in 
+court if needed. all this will be 
 recorded on the hard drive and sd card. 
-ALARMS; 
-This alarm system will work seperatley to the factory alarm system just in caes that is disabled.The alarm will 
-have pre-recorded sounds up to 100 decibels,along with a speaker in 
+
+ ALARMS; 
+This alarm system will work seperatley to the factory alarm system just in caes that is disabled. The alarm will 
+have pre-recorded sounds up to 100 decibels, along with a speaker in 
  side saying in a calm voice to just relax and wait for help, and the alarm can be disabled by an APP on 
-the owners ph.The alarm will go off every 5 secondes for 5 mins and then every 2 minutes after that for another 5 
-mins.The alarm system will disable the door locks and electric windows(if applicable). 
+the owners ph. The alarm will go off every 5 secondes for 5 mins and then every 2 minutes after that for another 5 
+mins. The alarm system will disable the door locks and electric windows(if applicable). 
  
 This Idea is based on 2 current products already in use today.1 of those products is the factory and (after market) 
 motor vehicle anti-theft 
-systems.The other is the black box used in airplanes,the black box will be fire proof,and crash proof,and only 
+systems. The other is the black box used in airplanes, the black box will be fire proof, and crash proof, and only 
  accessed byt the owner of the motor vehicle with a special key. All parts 
- can be fitted by an authorized person,who will have knowledge of a motor vehicles electrical systems , 
+ can be fitted by an authorized person, who will have knowledge of a motor vehicles electrical systems , 
 and mechanical knowledge. For things such as the Engine Managment systems including electric windows, doors 
 locks, braking systems. 
  
-Tools requrired will be the standard tools ,screw drivers,wire cutters,electrical tapr electrical tubing,spanners 
+Tools requrired will be the standard tools , screw drivers, wire cutters, electrical tape, electrical tubing, spanners 
 (open ended and rind), 
 electrical wire (12 gauge) and connectors for the vehicle's commputer 
-The technologies required will be the sofe ware associated with the operating systems,such as engine immoblising
+The technologies required will be the soft ware associated with the operating systems, such as engine immoblising
 , power windows, door locks, 
 and braking systems. The soft ware for the camera will be in the same black box but run seperatly with its own 
 hard drive and as card. 
  
-Skills required will need to be advanced in automotive,eg electrical and mechanical skills,like fitting parts to 
+Skills required will need to be advanced in automotive, eg electrical and mechanical skills, like fitting parts to 
 braking systemsn engine 
-managment systems,(commputer in vehical).Knowledge in to late model vehicles that run a carboeretta or fuel 
-injector systems,A cert 2 or higher in 
-automotive electrical technoledge,a cert 2 or higher in automotive studies, commputer programming can take in 
+managment systems, (commputer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
+injector systems, A cert 2 or higher in 
+automotive electrical technoledge, A cert 2 or higher in automotive studies, commputer programming can take in 
 between 25 to 40 weeks or longer. 
  
  
-The outcome if this idea was successful would be great for the motor vehicles owners knowing that no matter what
+The outcome if this idea was successful would be great for the motor vehicles owners, knowing that no matter what
  happens to there vehicles when stolen that the people responsible would be caught and dealt
   with by the law, Insurence companies would lower there rates as this would go down as this will be an added
  safety add-on to the vehicle. Police would catch more criminals faster, so more jails would be needed,
