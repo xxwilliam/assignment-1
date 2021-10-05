@@ -23,7 +23,7 @@ https://github.com/xxwilliam/assignment-1/edit/main/README.md
  
 <p>Born in  Brisbane, Australia :</P> 
  
-Education To Date: Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security 
+<h4>Education To Date:</h4> Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security 
 Operations in 2010, Rmit Introduction to IT in 2021.  
  
  <h4>Basic Background  information.</H4>
