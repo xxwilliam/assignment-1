@@ -7,9 +7,11 @@
 <body> 
  
 <h1>Personal Information</h1> 
-<p> NAME; William Troy Hansen 
-STUDENT NUMBER; s3927616. 
-STUDENT EMAIL; S3927616@student.rmit.edu.au 
+<p> NAME; William Troy Hansen
+ 
+STUDENT NUMBER; s3927616.
+ 
+ STUDENT EMAIL; S3927616@student.rmit.edu.au</P> 
  
 https://github.com/xxwilliam/xxwilliam1/blob/main/pics/troy.JPG
  
@@ -19,10 +21,18 @@ https://github.com/xxwilliam/assignment-1/edit/main/README.md
 
 
  
-Born in Australia : 
+Born in  Brisbane, Australia : 
  
 Education To Date: Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security 
-Operations in 2010, Rmit Introduction to IT in 2021. 
+Operations in 2010, Rmit Introduction to IT in 2021.  
+ 
+ Basic Background  information.
+ 
+ I studied to be a chef in 1990 at Rockhamption T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off.Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife. 
+ 
+ My Interest in It.
+ 
+ I choose RMIT as it was the only  on-line University that would give me a go at doing an It course that is flexiable to my needs at this time, easy to use, the tutors are a very helpfull and are available for feedback. I am starting my It journey in, introduction to It as a stepping stone, and then I will be studying introduction to Programing after this course. I expect to learn a lot from RMIT to help me further my studies so I can reach my goal and study Cyber Security.After that I hope to start my own Cyber Security business.
  
  
 My interest in IT came about when a friend of mine was chatting to a guy online from the USA. She was telling 
@@ -33,10 +43,7 @@ what I found and showed her , at 1st she did'nt believe me so I told her to ask 
 ring his work and ask to speak to the manager. After she did all that she found out I was right and
  had caught him out on his lies. She never went to the USA.
  
-I choose RMIT as it is very flexiable, online, easy to use and the tutors are a very good help and have a great 
- knowledge of IT. 
-I expect to learn a lot from my studies to help me further my studies so I can reach my goal and study Cyber 
-security. 
+
  
 MY IDEAL JOB 
  
@@ -45,10 +52,11 @@ My role would be delivering Cyber Security out comes by my self or as part of a 
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
  across systems and domains, and with Australian Government security requirements under PSPF,DSPF 
  and ISM. An IT degree with Industry experience in security risk management in complex systems is preferable 
-with certificates in ,CSSIP, CISM. CISA, and CPP. 
+with certificates in, CPP. (CISSP), Certified Information Systems Security Professional.I would need atleast 5 years cumulative paid full-time work experience in at least two domains of the CISSP Common Book of Knowledge. Getting 4-year college education degree or a regional equivalent of a cissp credential from the (ISC)2 approved list. (CISM), Certified Information Security Manager.This is a 4-day course provides an intense environment in which participants can acquire, thoroughly and properly, the skills and knowledge expected of a world-class information security manager. (CPP) The Certified Protection Professional  designation is awarded to experienced security practitioners who have demonstrated in-depth knowledge and management skills in eight key areas of security. Those who have earned the CPP are (ASIS) board-certified in security management. (ASIS) The Australian Secret Intelligence Service /ˈeɪsɪs/ (ASIS) is the foreign intelligence agency of Australia, tasked with the covert collection of information overseas through personal contacts and other means of human intelligence
+
+
  
  
-I hope to pass this course, then study introduction to programming, then on to Cyber security 
  
 https://www.seek.com.au/job/53735051/apply?token=1~03fd8ff7-3656-4dd3-9633-f830c1aed2e6 
  
@@ -135,14 +143,18 @@ electrical wire (12 gauge) and connectors for the vehicle's commputer
 The technologies required will be the soft ware associated with the operating systems, such as engine immoblising
 , power windows, door locks, 
 and braking systems. The soft ware for the camera will be in the same black box but run seperatly with its own 
-hard drive and as card. 
+hard drive and as card. Microcontroller units: A small computer on an integrated circuit for memory and I/O peripherals. 
+GPS module: A GPS device built with tiny processors and antennas to receive the satellite data and timestamps. 
+GSM module: A global system for mobile communication that works as a mobile device establishes contact with a computer. 
+Relay circuit: An electronic control device integration with a GPS tracker to communicate with the vehicle’s engine. 
+ a power converter, it will also be connected devices via cloud IoT.
  
 Skills required will need to be advanced in automotive, eg electrical and mechanical skills, like fitting parts to 
 braking systemsn engine 
 managment systems, (commputer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
 injector systems, A cert 2 or higher in 
 automotive electrical technoledge, A cert 2 or higher in automotive studies, commputer programming can take in 
-between 25 to 40 weeks or longer. 
+between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.
  
  
 The outcome if this idea was successful would be great for the motor vehicles owners, knowing that no matter what
@@ -163,6 +175,8 @@ so that means more jobs more guards needed, and a safer community asmotor vehicl
 ![tests 3](https://user-images.githubusercontent.com/89674523/134449247-7035955a-5e71-4e58-8e37-bc2df31ba778.jpg)
 ![tests 4](https://user-images.githubusercontent.com/89674523/134449261-48bf203b-a3ee-4161-9484-acdaaddd1d02.jpg)
 
+ Personality test report
  
+ I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me.Idon't try and read to much into these kind of test resualts.  
 
  
