@@ -13,7 +13,7 @@ STUDENT NUMBER; s3927616.
  
  STUDENT EMAIL; S3927616@student.rmit.edu.au</P> 
  
-https://github.com/xxwilliam/xxwilliam1/blob/main/pics/troy.JPG
+
  
 https://github.com/xxwilliam/assignment-1/edit/main/README.md
 
