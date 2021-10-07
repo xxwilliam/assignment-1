@@ -21,14 +21,14 @@ https://github.com/xxwilliam/assignment-1/edit/main/README.md
 
 
  
-<p>Born in  Brisbane, Australia :</P> 
+ <p>Born in<b> Brisbane,</b> Australia : july 1 1971.</P> 
  
 <h3>Education To Date:</h3> Year 10 in 1989, Tafe cooking in 1990, Chubb Security in 2003, Certificate 3 in Security 
 Operations in 2010, Rmit Introduction to IT in 2021.  
  
- <h3>Basic Background  information.</H3>
+ <h3>Basic Background information.</H3>
  
- <p>I studied to be a chef in 1990 at Rockhamption T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off.Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
+ <p>I studied to be a chef in 1990 at<b> Rockhamption</b> T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off.Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
  
  <h3>My Interest in It.</h3>
  
@@ -74,7 +74,7 @@ https://www.seek.com.au/job/53735051/apply?token=1~03fd8ff7-3656-4dd3-9633-f830c
  
 <h3>OVER VIEW;</H3> 
  
-<p>A module fitted to a motor vehicle to help stop it getting stolen. The G,E,C,A stands for Gps tracking, Engine 
+<p>A module fitted to a motor vehicle to help stop it getting stolen. The<b> G,E,C,A.</b> Stands for Gps tracking, Engine 
 immobiliser, Camera, Alarm. 
 The GPS will keep a log of the vehicle's location, Engine immobiliser will disable the engine, lock doors and win
 windows, Cameras will record from 
@@ -96,7 +96,7 @@ that difference is all this is in a package like they have on airplanes (black b
  
 <h3>DESCRIPTION OF PRODUCT;</h3> 
  
-<p> The G,E,C,A. Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
+<p> The <b>G,E,C,A.</b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
 
  <h3>GPS Tracking;</h3> 
 <p>The Gps Tracker will work along side but not wired into the factory gps (if the vehicle has 1), it will have it's own
@@ -158,7 +158,7 @@ braking systemsn engine
 managment systems, (commputer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
 injector systems, A cert 2 or higher in 
 automotive electrical technoledge, A cert 2 or higher in automotive studies, commputer programming can take in 
-between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.I would use  Rasberry Pi Model B which has ARM Cortex processor, Wi-Fi, Bluetooth, 2 USB ports, 2 GB of RAM, with a SD card memory of 32 GB of memory. The program would be developed on MyGet which is cloud based,  </p>
+between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.I would use  Rasberry Pi Model B which has ARM Cortex processor, Wi-Fi, Bluetooth, 2 USB ports, 2 GB of RAM, with a SD card memory of 32 GB of memory. The program would be developed on MyGet which is cloud based, software company.  </p>
  
  <h3> The outcome</h3>
  
@@ -169,12 +169,12 @@ between 25 to 40 weeks or longer. Experience in cloud computering and software e
 so that means more jobs more guards needed, and a safer community asmotor vehicle theft would 
   go down and peace of mind for motor vehicle owners. Also a text message sent to the owner's phone of possible theft.</p>
   
-  <h3>FAQ'S</h3>
+  <h3>FAQ'S .</h3>
   
-  <p>If any problems refer to manual.
- For quick trouble shooting? Wait 30 seconds and try again.
- If that fails  disconnect from power wait 2 minutes and connect and try again.
- If system fails please call (1800 000 000) (free call).</p>
+  <p>If any problems refer to manual.</p>
+ <p>For quick trouble shooting? Wait 30 seconds and try again.</p>
+ <p>If that fails  disconnect from power wait 2 minutes and connect and try again.</p>
+ <p>If system fails please call (1800 000 000) (free call).</p>
  
   
  
@@ -189,8 +189,9 @@ so that means more jobs more guards needed, and a safer community asmotor vehicl
 ![tests 3](https://user-images.githubusercontent.com/89674523/134449247-7035955a-5e71-4e58-8e37-bc2df31ba778.jpg)
 ![tests 4](https://user-images.githubusercontent.com/89674523/134449261-48bf203b-a3ee-4161-9484-acdaaddd1d02.jpg)
 
- <h3>Personality test report</h3>
+ <h3>Personality test report.</h3>
  
- <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me.I don't try and read to much into these kind of test resualts.</p>  
+ <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me. I don't try and read to much into these kind of test resualts.</p>  
 
- 
+</body>
+</html>
