@@ -50,8 +50,8 @@ ring his work and ask to speak to the manager. After she did all that she found 
 <p>Security Specialist. 
 My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
- across systems and domains, and with Australian Government security requirements under PSPF,DSPF 
- and ISM. An IT degree with Industry experience in security risk management in complex systems is preferable 
+ across systems and domains, and with Australian Government security requirements under (PSPF) Protective Security Policy Framwork, (DSPF), Defence Security Principles Framwork, and (ISM) Imformation Security Manual. 
+ An IT degree with Industry experience in security risk management in complex systems is preferable 
 with certificates in, CPP. (CISSP), Certified Information Systems Security Professional.I would need atleast 5 years cumulative paid full-time work experience in at least two domains of the CISSP Common Book of Knowledge. Getting 4-year college education degree or a regional equivalent of a cissp credential from the (ISC)2 approved list. (CISM), Certified Information Security Manager.This is a 4-day course provides an intense environment in which participants can acquire, thoroughly and properly, the skills and knowledge expected of a world-class information security manager. (CPP) The Certified Protection Professional  designation is awarded to experienced security practitioners who have demonstrated in-depth knowledge and management skills in eight key areas of security. Those who have earned the CPP are (ASIS) board-certified in security management. (ASIS) The Australian Secret Intelligence Service /ˈeɪsɪs/ (ASIS) is the foreign intelligence agency of Australia, tasked with the covert collection of information overseas through personal contacts and other means of human intelligence</p>
 
 
@@ -96,7 +96,7 @@ that difference is all this is in a package like they have on airplanes (black b
  
 <h3>DESCRIPTION OF PRODUCT;</h3> 
  
-<p>As the name suggests G,E,C,A. Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
+<p> The G,E,C,A. Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
 
  <h3>GPS Tracking;</h3> 
 <p>The Gps Tracker will work along side but not wired into the factory gps (if the vehicle has 1), it will have it's own
@@ -172,7 +172,9 @@ so that means more jobs more guards needed, and a safer community asmotor vehicl
   <h3>FAQ'S</h3>
   
   <p>If any problems refer to manual.
- For quick trouble shooting? Wait 30 seconds and try again. If that fails  disconnect for power wait 2 minutes and connect and try again. If system fails please call (1800 000 000) (free call).</p>
+ For quick trouble shooting? Wait 30 seconds and try again.
+ If that fails  disconnect from power wait 2 minutes and connect and try again.
+ If system fails please call (1800 000 000) (free call).</p>
  
   
  
