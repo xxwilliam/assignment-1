@@ -28,7 +28,7 @@ Operations in 2010, Rmit Introduction to IT in 2021.
  
  <h3>Basic Background information.</H3>
  
- <p>I studied to be a chef in 1990 at<b> Rockhamption</b> T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off.Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
+ <p>I studied to be a chef in 1990 at<b> Rockhamption</b> T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off. Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
  
  <h3>My Interest in It.</h3>
  
@@ -47,7 +47,8 @@ ring his work and ask to speak to the manager. After she did all that she found 
  
 <h3>MY IDEAL JOB</h3> 
  
-<p>Security Specialist. 
+<p>Security Specialist.</p>
+
 My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
  across systems and domains, and with Australian Government security requirements under <b>(PSPF)</b> Protective Security Policy Framwork, <b>(DSPF),</b> Defence Security Principles Framwork, and<b> (ISM)</b> Imformation Security Manual. 
@@ -99,6 +100,7 @@ that difference is all this is in a package like they have on airplanes (black b
 <p> The <b>G,E,C,A.</b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
 
  <h3>GPS Tracking;</h3> 
+ 
 <p>The Gps Tracker will work along side but not wired into the factory gps (if the vehicle has 1), it will have it's own
 battery as a back up 
 for the whole system. The GPS will log the trips on a hard drive and an SD card, so if the hard drive was damage
@@ -106,23 +108,26 @@ d the SD card would survive or vice
 versa.</p> 
 
  <h3>ENGINE IMMOBILISER;</h3> 
+ 
 <p>This will work seperate to the factory engine immobiliser ( if vehicle has 1) so if that was hacked or key was 
 cloned. The engine immobiliser would  
 kick in after the vehicle was driven 50 meters, it woukd send a log to the hard drive and sd card,. The engine 
 immobiliser would keep motor vehicle 
 engine running but only idleing so air conditioner or fan to work. It would send a message to the motor vehicle 
-commputer (most vehicles have a 
-commptuer) most vehicles made before 1970-1980 will not have a commputer. Also send a message to the brakes 
+computer (most vehicles have a 
+comptuer) most vehicles made before 1970-1980 will not have a computer. Also send a message to the brakes 
 to close.</p> 
 
  <h3>CAMERAS;</h3> 
+ 
 <p>Cameras will be mounted on the front,rear and inside. These cameras will record just like normal vehicle cameras 
 do, The in side camera will directly 
 show the driver, have a mircrophone as well the record any voices from in side the vehicle, that can be used in 
 court if needed. all this will be 
 recorded on the hard drive and sd card.</p> 
 
- <h3>ALARMS;</h3> 
+ <h3>ALARMS;</h3>
+ 
 <p>This alarm system will work seperatley to the factory alarm system just in caes that is disabled. The alarm will 
 have pre-recorded sounds up to 100 decibels, along with a speaker in 
  side saying in a calm voice to just relax and wait for help, and the alarm can be disabled by an APP on 
@@ -141,7 +146,7 @@ locks, braking systems.</p>
 
 <p>Tools requrired will be the standard tools , screw drivers, wire cutters, electrical tape, electrical tubing, spanners 
 (open ended and rind), 
-electrical wire (12 gauge) and connectors for the vehicle's commputer 
+electrical wire (12 gauge) and connectors for the vehicle's computer 
 The technologies required will be the soft ware associated with the operating systems, such as engine immoblising
 , power windows, door locks, 
 and braking systems. The soft ware for the camera will be in the same black box but run seperatly with its own 
@@ -155,9 +160,9 @@ Relay circuit: An electronic control device integration with a GPS tracker to co
  
 <p>Skills required will need to be advanced in automotive, eg electrical and mechanical skills, like fitting parts to 
 braking systemsn engine 
-managment systems, (commputer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
+managment systems, (computer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
 injector systems, A cert 2 or higher in 
-automotive electrical technoledge, A cert 2 or higher in automotive studies, commputer programming can take in 
+automotive electrical technoledge, A cert 2 or higher in automotive studies, computer programing can take in 
 between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.I would use  Rasberry Pi Model B which has ARM Cortex processor, Wi-Fi, Bluetooth, 2 USB ports, 2 GB of RAM, with a SD card memory of 32 GB of memory. The program would be developed on MyGet which is cloud based, software company.  </p>
  
  <h3> The outcome</h3>
@@ -191,7 +196,23 @@ so that means more jobs more guards needed, and a safer community asmotor vehicl
 
  <h3>Personality test report.</h3>
  
- <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me. I don't try and read to much into these kind of test resualts.</p>  
+ <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me. I don't try and read to much into these kind of test resualts. 
+
+<h3> references:</h3>
+number of registered cars in australia link 
+Number of registered vehicles Australia 1990-2020
+Published by Christopher Hughes 
+, Jul 13, 2021.
+
+vehicle thefts in australia 
+Pallavi Singhal is a data journalist at The Sydney Morning HeraldConnect via Twitter or email.
+Laura Chung
+Laura Chung is a crime reporter for The Sydney Morning Herald.Connect via Twitter or email.
+
+Rasberry Pi model B
+"Eben Upton talks Raspberry Pi 3". The MagPi Magazine. 29 February 2016.</p>
+
+ 
 
 </body>
 </html>
