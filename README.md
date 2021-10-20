@@ -16,14 +16,14 @@ STUDENT NUMBER; s3927616.
 
  
 https://github.com/xxwilliam/assignment-1/edit/main/README.md
-
+<body>
 <h2>William Troy Hansen</h2>
 
 
 
 <img src="file:///D:/TROYS%20SHIT/New%20folder%20(2)/images/troy%20(3).jpg" style="width:300px;height:400px;">
 
-
+ </body>
  
  <p>Born in<b> Brisbane,</b> Australia : july 1 1971.</P> 
  
