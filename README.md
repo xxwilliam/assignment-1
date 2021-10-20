@@ -21,7 +21,7 @@ https://github.com/xxwilliam/assignment-1/edit/main/README.md
 
 
 
-<img src="file:///D:/TROYS%20SHIT/New%20folder%20(2)/images/troy%20(3).jpg" style="width:300px;height:400px;">
+<img src=https://photos.app.goo.gl/KX7ff9HfBSooZwFi8 style="width:300px;height:400px;">
 
  </body>
  
