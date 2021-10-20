@@ -17,7 +17,11 @@ STUDENT NUMBER; s3927616.
  
 https://github.com/xxwilliam/assignment-1/edit/main/README.md
 
- ![troy](https://user-images.githubusercontent.com/89674523/134449067-e7379e32-e115-4846-b9d5-4b81a85b64d9.jpg)
+<h2>William Troy Hansen</h2>
+
+
+
+<img src="file:///D:/TROYS%20SHIT/New%20folder%20(2)/images/troy%20(3).jpg" style="width:300px;height:400px;">
 
 
  
