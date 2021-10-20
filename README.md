@@ -20,8 +20,9 @@ https://github.com/xxwilliam/assignment-1/edit/main/README.md
 <h2>William Troy Hansen</h2>
 
 
+![troy (2)](https://user-images.githubusercontent.com/89674523/138060847-cb2b0a3f-669d-4d80-8db6-33cb1c6767a2.gif)
 
-<img src=https://photos.app.goo.gl/KX7ff9HfBSooZwFi8 style="width:300px;height:400px;">
+
 
  </body>
  
