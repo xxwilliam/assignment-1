@@ -64,14 +64,15 @@ ors, and outside authorities. I would have to have attention to detail for track
  
  
  
-https://www.seek.com.au/job/53735051/apply?token=1~03fd8ff7-3656-4dd3-9633-f830c1aed2e6 
+(https://www.seek.com.au/job/53735051/apply?token=1~03fd8ff7-3656-4dd3-9633-f830c1aed2e6)
  
  
-) 
- ![IMG_6231 (2)](https://user-images.githubusercontent.com/89674523/134448605-d52b338a-35a9-413c-8caf-fd6481abca8f.jpg)
+ 
+ ![job1](https://user-images.githubusercontent.com/89674523/134448605-d52b338a-35a9-413c-8caf-fd6481abca8f.jpg)
   
  
  ![job 2](https://user-images.githubusercontent.com/89674523/134449115-3c2aba97-6985-4937-96a1-1d695fcf5c49.jpg)
+
 
 <h3>MY PROJECT IDEA;</h3> 
 
@@ -168,7 +169,7 @@ braking systemsn engine
 managment systems, (computer in vehical). Knowledge in to late model vehicles that run a carboeretta or fuel 
 injector systems, A cert 2 or higher in 
 automotive electrical technoledge, A cert 2 or higher in automotive studies, computer programing can take in 
-between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.I would use  Rasberry Pi Model B which has ARM Cortex processor, Wi-Fi, Bluetooth, 2 USB ports, 2 GB of RAM, with a SD card memory of 32 GB of memory. The program would be developed on MyGet which is cloud based, software company.  </p>
+between 25 to 40 weeks or longer. Experience in cloud computering and software engineering.I would use  Rasberry Pi Model B which has ARM Cortex processor, Wi-Fi, Bluetooth, 2 USB ports, 2 GB of RAM, with a SD card memory of 32 GB of memory. The program would be developed on MyGet which is cloud based, software company.</p>
  
  <h3> The outcome</h3>
  
@@ -195,26 +196,31 @@ so that means more jobs more guards needed, and a safer community asmotor vehicl
 
  
 
-![tests 1](https://user-images.githubusercontent.com/89674523/134449168-75da1e38-81e1-4c50-8a3d-06751c381ef1.jpg)   ! [tests 2](https://user-images.githubusercontent.com/89674523/134449204-ee1fe682-7ed2-48e1-9175-6c387c0b3a74.jpg)
+![tests 1](https://user-images.githubusercontent.com/89674523/134449168-75da1e38-81e1-4c50-8a3d-06751c381ef1.jpg)
+
+! [tests 2](https://user-images.githubusercontent.com/89674523/134449204-ee1fe682-7ed2-48e1-9175-6c387c0b3a74.jpg)
+
 ![tests 3](https://user-images.githubusercontent.com/89674523/134449247-7035955a-5e71-4e58-8e37-bc2df31ba778.jpg)
+
 ![tests 4](https://user-images.githubusercontent.com/89674523/134449261-48bf203b-a3ee-4161-9484-acdaaddd1d02.jpg)
+
 
  <h3>Personality test report.</h3>
  
- <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me. I don't try and read to much into these kind of test resualts. 
+ <p>I agree with the test resualts in that, i do like to work alone sometimes but i can work with others, if they need me. I don't try and read to much into these kind of test resualts.</p> 
 
 <h3> references:</h3>
-number of registered cars in australia link 
+<p>number of registered cars in australia link 
 Number of registered vehicles Australia 1990-2020
 Published by Christopher Hughes 
-, Jul 13, 2021.
+, Jul 13, 2021.</p>
 
-vehicle thefts in australia 
+<p>vehicle thefts in australia 
 Pallavi Singhal is a data journalist at The Sydney Morning HeraldConnect via Twitter or email.
 Laura Chung
-Laura Chung is a crime reporter for The Sydney Morning Herald.Connect via Twitter or email.
+Laura Chung is a crime reporter for The Sydney Morning Herald.Connect via Twitter or email.</p>
 
-Rasberry Pi model B
+<p>Rasberry Pi model B
 "Eben Upton talks Raspberry Pi 3". The MagPi Magazine. 29 February 2016.</p>
 
  
