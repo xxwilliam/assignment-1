@@ -33,7 +33,7 @@ Operations in 2010, Rmit Introduction to IT in 2021.
  
  <h3>Basic Background information.</H3>
  
-<p style="background-colour:Violet">I studied to be a chef in 1990 at<b> Rockhamption</b> T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off. Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
+<p style="background-color:Violet;">I studied to be a chef in 1990 at<b> Rockhamption</b> T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Wharehouse that deals in Stainles Steel. Then i got into Security Did that for abt 15 years on and off. Then my wife and me were diagnosed with depression and anxiety. I had to give up on security to look after my wife.</p> 
  
  <h3>My Interest in It.</h3>
  
