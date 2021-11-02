@@ -1,14 +1,15 @@
-# assignment-1
+ Assignment-1
 <!DOCTYPE html> 
 <html> 
-<head> 
- <style>
+<head>
+<style> 
 body {background-color: powderblue;}
 h1   {color: violet;}
+h2   {color: dark red;} 
 p    {color: black;}
 </style>
 </head>
- 
+</body> 
 <body> 
  
  
