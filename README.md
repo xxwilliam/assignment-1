@@ -7,7 +7,8 @@ body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
-</head> 
+</head>
+ 
 <body> 
  
  
@@ -28,7 +29,7 @@ p    {color: red;}
 style="width:350px;height:450px;">     
 
 
- </body>
+
  
  <p>Born in<b> Brisbane,</b> Australia : july 1 1971.</P> 
  
