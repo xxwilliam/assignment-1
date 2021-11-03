@@ -1,5 +1,5 @@
- Assignment-1
-<!DOCtype html> 
+<!DOCtype html>
+Assignment-1<!DOCtype html> 
 <html> 
 <head>
 <style> 
