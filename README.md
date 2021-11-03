@@ -2,6 +2,7 @@
 <html>
 <body>
 <head>
+ <title>Assignment 1</title> 
 <style>
 body {background-color: powderblue;}
 h1   {color: violet;}
