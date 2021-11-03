@@ -5,13 +5,15 @@
  <title>Assignment 1</title>
 <style>
 h1 {text-align:  center;} 
-<style>
+</style>
+<style> 
 body {background-color: powderblue;}
 h1   {color: black;}
 h2   {color: violet;}
 h3   {color: darkred;} 
 p    {color: black;}
  </style>
+
  </head>
  <body>  
  
