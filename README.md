@@ -5,8 +5,8 @@
  <title>Assignment 1</title> 
 <style>
 body {background-color: powderblue;}
-h1   {color: violet;}
-h2   {color: black;}
+h1   {color: black;}
+h2   {color: violet;}
 h3   {color: darkred;} 
 p    {color: black;}
  </style>
@@ -58,7 +58,7 @@ had caught him out on his lies. She never went to the USA.</p>
  
   <h3>MY IDEAL JOB</h3> 
  
-<p>Security Specialist.</p>
+<h2>Security Specialist.</h2>
 
 My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
@@ -87,7 +87,7 @@ with certificates in. <b>(CISSP),</b> Certified Information Systems Security Pro
  
   <h3>OVER VIEW;</H3> 
  
-<p>A module fitted to a motor vehicle to help stop it getting stolen. The<b> G,E,C,A.</b> Stands for Gps tracking, Engine 
+ <p>A module fitted to a motor vehicle to help stop it getting stolen. The<b><h3> G,E,C,A.</h3></b> Stands for Gps tracking, Engine 
 immobiliser, Camera, Alarm. 
 The GPS will keep a log of the vehicle's location, Engine immobiliser will disable the engine, lock doors and win
 windows, Cameras will record from 
@@ -109,7 +109,7 @@ that difference is all this is in a package like they have on airplanes (black b
  
   <h3>DESCRIPTION OF PRODUCT;</h3> 
  
-<p> The <b>G,E,C,A.</b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
+ <p> The <b><h3>G,E,C,A.</h3></b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
 
   <h3>GPS Tracking;</h3> 
  
