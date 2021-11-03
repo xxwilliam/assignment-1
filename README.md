@@ -1,7 +1,7 @@
 <!DOCtype html>
 <html> 
 <head>
-<body>
+<style>
 body {background-color: powderblue;}
 h1   {color: violet;}
 h2   {color: black;}
