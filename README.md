@@ -1,7 +1,7 @@
 <!DOCtype html>
-Assignment-1<!DOCtype html> 
 <html> 
 <head>
+Assignment-1 
 <style> 
 body {background-color: powderblue;}
 h1   {color: violet;}
