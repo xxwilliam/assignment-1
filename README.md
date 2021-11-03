@@ -7,7 +7,7 @@
 h1 {text-align:  center;}
 h2 {text-align:  center;}
 h3 {text-align:  center;}
-img{text-align:  center;} 
+img{img-align:   center;} 
 </style>
 <style> 
 body {background-color: powderblue;}
