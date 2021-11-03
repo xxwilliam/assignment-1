@@ -7,7 +7,7 @@
 body {background-color: powderblue;}
 h1   {color: violet;}
 h2   {color: black;}
-h3   {color: red;} 
+h3   {color: darkred;} 
 p    {color: black;}
  </style>
  </head>
