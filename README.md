@@ -102,7 +102,7 @@ with certificates in. <b>(CISSP),</b> Certified Information Systems Security Pro
  
   <h3>OVER VIEW;</H3> 
  
- <p>A module fitted to a motor vehicle to help stop it getting stolen. The<b><h3> G,E,C,A.</h3></b> Stands for Gps tracking, Engine 
+ <p>A module fitted to a motor vehicle to help stop it getting stolen. The<b>G,E,C,A.</b> Stands for Gps tracking, Engine 
 immobiliser, Camera, Alarm. 
 The GPS will keep a log of the vehicle's location, Engine immobiliser will disable the engine, lock doors and win
 windows, Cameras will record from 
