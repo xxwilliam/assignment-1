@@ -1,5 +1,5 @@
 <!DOCtype html>
-<html> 
+ 
 <head>
 <style>
 body {background-color: powderblue;}
@@ -230,4 +230,3 @@ Laura Chung is a crime reporter for The Sydney Morning Herald.Connect via Twitte
  
 
 </body>
-</html>
