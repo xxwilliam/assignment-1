@@ -1,18 +1,18 @@
 <!DOCtype html>
 <html> 
 <head>
-<p>Assignment-1</p>
 <body>
 <style> 
 body {background-color: powderblue;}
 h1   {color: violet;}
-h2   {color: dark red;} 
+h2   {color: dark red;}
+h3   {color: red;} 
 p    {color: black;}
 </style>
 </head>
 </body> 
 <body> 
- 
+<p>Assignment-1</p> 
  
 <h1>Personal Information</h1> 
 <p> NAME; William Troy Hansen,</p>
