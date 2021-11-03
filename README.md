@@ -2,7 +2,9 @@
 <html>
 <body>
 <head>
- <title>Assignment 1</title> 
+ <title>Assignment 1</title>
+<style>
+h1 {text-align:  center;} 
 <style>
 body {background-color: powderblue;}
 h1   {color: black;}
@@ -58,7 +60,7 @@ had caught him out on his lies. She never went to the USA.</p>
  
   <h3>MY IDEAL JOB</h3> 
  
-<h2>Security Specialist.</h2>
+<h3>Security Specialist.</h3>
 
 My role would be delivering Cyber Security out comes by my self or as part of a team, communicating with vend
 ors, and outside authorities. I would have to have attention to detail for tracking complex security requirements
