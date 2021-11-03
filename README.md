@@ -7,7 +7,11 @@
 h1 {text-align:  center;}
 h2 {text-align:  center;}
 h3 {text-align:  center;}
-img{img-align:   center;} 
+img {
+  display: block:
+  margin-left: auto;
+  margin-right: auto;
+ }
 </style>
 <style> 
 body {background-color: powderblue;}
