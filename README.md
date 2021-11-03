@@ -6,7 +6,8 @@
 <style>
 h1 {text-align:  center;}
 h2 {text-align:  center;}
-h3 {text-align:  center;} 
+h3 {text-align:  center;}
+img{text-align:  center;} 
 </style>
 <style> 
 body {background-color: powderblue;}
@@ -115,7 +116,7 @@ that difference is all this is in a package like they have on airplanes (black b
  
   <h3>DESCRIPTION OF PRODUCT;</h3> 
  
- <p> The <b>G,E,C,A.</b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does;</p> 
+ <p> The <b>G,E,C,A.</b> Gps ,Engine immobiliser, Camera and Alarm, lets discover what each 1 does.</p> 
 
   <h3>GPS Tracking;</h3> 
  
