@@ -7,7 +7,9 @@ h1   {color: violet;}
 h2   {color: black;}
 h3   {color: red;} 
 p    {color: black;}
-<body>  
+ </style>
+ </head>
+ <body>  
  
   <h1>Personal Information</h1> 
  <h2> NAME; William Troy Hansen,</h2>
