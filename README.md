@@ -1,4 +1,4 @@
-<!DOCtype html>
+<!DOCTYPE html>
  
 <head>
 <style>
@@ -225,8 +225,5 @@ Laura Chung
 Laura Chung is a crime reporter for The Sydney Morning Herald.Connect via Twitter or email.</p>
 
 <p>Rasberry Pi model B
-"Eben Upton talks Raspberry Pi 3". The MagPi Magazine. 29 February 2016.</p>
-
- 
-
+"Eben Upton talks Raspberry Pi 3". The MagPi Magazine. 29 February 2016.</p> 
 </body>
