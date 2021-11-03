@@ -16,7 +16,7 @@ p    {color: black;}
 <p>Assignment-1</p> 
  
 <h1>Personal Information</h1> 
-<p> NAME; William Troy Hansen,</p>
+<h2> NAME; William Troy Hansen,</h2>
  
  <p>STUDENT NUMBER; s3927616.</p>
  
