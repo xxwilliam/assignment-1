@@ -2,12 +2,14 @@
 <html>
 <body>
 <head>
- <title>Assignment 1</title>
-<style>
+
 h1 {text-align:  center;}
 h2 {text-align:  center;}
 h3 {text-align:  center;}
-img {
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Assignment 1</title>
+<style>
+ img {
   display: block:
   margin-left: auto;
   margin-right: auto;
