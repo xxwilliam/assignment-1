@@ -10,7 +10,7 @@ p    {color: black;}
 <body>  
  
 <h1>Personal Information</h1> 
-<h2> NAME; William Troy Hansen,</h2>
+ <h2> NAME; William Troy Hansen,</h2>
  
  <p>STUDENT NUMBER; s3927616.</p>
  
