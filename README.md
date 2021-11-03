@@ -6,6 +6,7 @@
 h1 {text-align:  center;}
 h2 {text-align:  center;}
 h3 {text-align:  center;}
+h4 {text-align:  center;} 
  </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>Assignment 1</title>
@@ -30,9 +31,9 @@ p    {color: black;}
   <h1>Personal Information</h1> 
  <h2> NAME; William Troy Hansen,</h2>
  
- <p>STUDENT NUMBER; s3927616.</p>
+ <h4>STUDENT NUMBER; s3927616.</h4>
  
- <p> STUDENT EMAIL; S3927616@student.rmit.edu.au</p> 
+ <h4> STUDENT EMAIL; S3927616@student.rmit.edu.au</h4> 
  
 
  
