@@ -38,7 +38,7 @@ p    {color: black;}
  <h2>William Troy Hansen</h2>
 
 <img src="https://github.com/xxwilliam/xxwilliam1/blob/main/pics/troy.JPG?raw=true"
-style="width:350px;height:450px;">     
+style="width:50%">     
 
 
 
